@@ -74,10 +74,16 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+# X&Y values:
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742402/7400fd61-740a-4609-bf7a-f22281f781a6)
+
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742402/a034492a-768a-4243-aaf6-e49953b4f1dc)
+# X-Scaled & Y-Scaled:
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742402/37de69c4-31aa-4535-a0fa-26d92efca8b1)
+
+
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742402/4b8f36ac-789d-4b9b-aaab-9aff5d259ea3)
+# Predicted value:
 ![image](https://github.com/Jeshwanthkumarpayyavula/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742402/f9f341cb-53cd-44c2-bd25-8e2ec129df51)
 
 
